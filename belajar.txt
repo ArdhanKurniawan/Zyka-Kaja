@@ -1,0 +1,8 @@
+VCS
+  Sistem untuk menyimpan dan mengelola rekaman perubahan file
+  
+Git
+  Software VCS
+  
+Github
+  Website untuk mengelola Git
