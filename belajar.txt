@@ -1,3 +1,6 @@
+Apa itu VCS, Git, Github!
+
+
 VCS
   Sistem untuk menyimpan dan mengelola rekaman perubahan file
   
@@ -6,3 +9,16 @@ Git
   
 Github
   Website untuk mengelola Git
+
+
+Command Sederhana
+  Repo : folder / file project
+  Commit : rekaman / snapshot repo
+  Hash : penanda unik commit
+  Checkout : berpindah commit
+  Branch : cabang commit
+  Merge : gabungan 2 / lebih Branch
+  Remote : sumber repo
+  Clone : mengambil repo dari remote
+  Push : mengirim commit ke repo
+  Pull : mengambil commit dari repo
