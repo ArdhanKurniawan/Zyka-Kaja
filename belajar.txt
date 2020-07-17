@@ -1,6 +1,5 @@
 Apa itu VCS, Git, Github!
 
-
 VCS
   Sistem untuk menyimpan dan mengelola rekaman perubahan file
   
